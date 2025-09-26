@@ -1,25 +1,29 @@
 ### Hi there 👋
 
-I'm Gaurank Maheshwari, a passionate data science enthusiast and a current master's student in the field. 
+I'm **Gaurank Maheshwari**, a Master's student in Data Science at RIT, passionate about **scalable AI systems, machine learning research, and applied data science**.  
 
-- 🔍 Exploring the vast realms of data to uncover insights and patterns is my forte. As a data science enthusiast, I thrive on turning raw information into meaningful stories that drive decision-making.
-- 🌱 Currently, I'm honing my skills in machine learning, data analysis, and visualization. My journey involves coding, experimenting with algorithms, and constantly learning from the ever-evolving world of data.
-- 🚀 Excited to contribute to the data-driven future and connect with like-minded individuals!
-- 👨‍🎓 Pronouns: He/him.
+- 🔭 **Currently focusing on:**  
+  - High-Performance ML (**CUDA, MPI, distributed training**)  
+  - Model deployment and optimization (**vLLM, Triton, FSDP, Deepspeed, AWS Trainium/Inferentia**)  
+  - Generative AI reliability (**hallucination reduction, bias detection, evaluation frameworks**)  
 
-Excited to embark on this data adventure and share a laugh or two along the way!
+- 🌱 **What I’m upskilling in:**  
+  - Advanced ML infrastructure and large-scale training systems  
+  - End-to-end AI pipelines (data → models → deployment → monitoring)  
+  - AI productization and workflow automation (**LangChain, Streamlit, Docker, AWS**)  
 
-<!--
-**GogoRit/Gogorit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 **Looking to collaborate on:**  
+  - Open-source initiatives in **LLM benchmarking, model evaluation, and generative AI reliability**  
+  - Research or engineering work that bridges **theory and scalable practice**  
 
-Here are some ideas to get you started:
+- 💬 **Ask me about:**  
+  - Building scalable and efficient ML/AI systems  
+  - Translating research ideas into usable, production-grade AI tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/gaurank) | [Email](mailto:gm8189@rit.edu)  
+
+- 👨‍🎓 **Pronouns:** He/Him  
+
+---
+
+⚡ *Excited to keep exploring the intersection of research, scalability, and real-world AI impact.*  
